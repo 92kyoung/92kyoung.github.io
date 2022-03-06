@@ -4,7 +4,7 @@
 ## 1. 본인 소개 
 
 본인 소개를 추가하세요
-<img=src="hi.png"/><br>
+<img=src="hi.JPG"/><br>
 
 |이름 |구이경|
 |연락처 | dowei22(@)naver.com|
