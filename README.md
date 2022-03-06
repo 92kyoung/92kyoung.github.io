@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/92kyoung/92kyoung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# 구이경의 github 홈페이지
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. 본인 소개 
 
-### Markdown
+본인 소개를 추가하세요
+<img=src="hi.png"/><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|이름 |구이경|
+|연락처 | dowei22(@)naver.com|
+|생년월일| 99.07.16|
+|학력| 한성대학교 전자정보시스템공학 졸업 (2022)  |
 
-```markdown
-Syntax highlighted code block
+[내 소개<img src="ppt.JPG"/>](/project.pptx)<br>
+[자기소개 ppt](/2260341001.pptx)<br>
 
-# Header 1
-## Header 2
-### Header 3
+## 2. 내가 좋아하는 노래 
+제가 좋아하는 노래 모음입니다.
+<iframe width="971" height="546" src="https://www.youtube.com/embed/FkDkF9Vh1oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/92kyoung/92kyoung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 관련 링크 
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
