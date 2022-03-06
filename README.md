@@ -3,7 +3,7 @@
 
 ## 1. 본인 소개 
 
-<img src="hi.PNG"> <br>
+<img src="hi.JPG"> <br>
 
 |이름 |구이경|
 |연락처 | dowei22(@)naver.com|
