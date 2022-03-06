@@ -3,15 +3,13 @@
 
 ## 1. 본인 소개 
 
-본인 소개를 추가하세요
-<img=src="hi.JPG"/><br>
+<img src="hi.PNG"> <br>
 
 |이름 |구이경|
 |연락처 | dowei22(@)naver.com|
 |생년월일| 99.07.16|
 |학력| 한성대학교 전자정보시스템공학 졸업 (2022)  |
 
-[내 소개<img src="ppt.JPG"/>](/project.pptx)<br>
 [자기소개 ppt](/2260341001.pptx)<br>
 
 ## 2. 내가 좋아하는 노래 
